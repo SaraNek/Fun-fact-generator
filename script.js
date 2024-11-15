@@ -5,14 +5,13 @@ const funFacts = [
   "Canvas and colors are my perfect escape.",
   "Baking, painting, and exploring the world are my ultimate trifecta.",
   "From kitchen creations to brushstrokes, my imagination knows no bounds.",
-  "Bananas are berries, but strawberries aren't.",
-  "Octopuses have three hearts.",
-  "Honey never spoils; archaeologists have found edible honey in ancient tombs.",
-  "A day on Venus is longer than a year on Venus.",
-  "Wombat poop is cube-shaped.",
-  "There are more stars in the universe than grains of sand on Earth.",
-  "A group of flamingos is called a 'flamboyance.'",
-  "Sharks existed before trees."
+  "Each travel destination adds a new story to my life’s scrapbook.",
+  "The smell of freshly baked cookies feels like home to me.",
+  "My paintbrush is my magic wand, bringing imagination to life.",
+  "Baking is my therapy, and the oven is my happy place.",
+  "The colors of a sunset often find their way onto my canvas.",
+  "Exploring the world teaches me lessons no classroom ever could.",
+  "From decorating cakes to decorating walls, I love bringing beauty into life.",
 ];
 
 // Select elements
