@@ -31,10 +31,6 @@ A simple and interactive web app that generates random fun facts with a single c
 
 ## 📌 Author
 
-Created by [Your Name]
+Created by Sara Nek
 
 ---
-
-## ⭐ Show Some Love
-
-If you like this project, give it a ⭐ on GitHub!
